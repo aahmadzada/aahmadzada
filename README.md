@@ -1,4 +1,4 @@
-![MasterHead](https://i.makeagif.com/media/2-08-2016/7bVXT6.gif)
+![MasterHead](https://i.imgur.com/A6qFpMU.gif)
 <h1 align="center">Hi 👋, I'm Anar</h1>
 <h3 align="center">Systems and DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/6060fa143584307.627d06916b633.gif">
